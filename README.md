@@ -30,6 +30,9 @@
 
 ```
   python detect.py --weights yolov7-e6e.pt --source ./man_cafe.jpg
+  
+```
+```
   python detect.py --source inference-data/busy_street.mp4 --weights yolov7.pt --name video_1 --view-img
   
 ```
