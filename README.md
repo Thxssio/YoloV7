@@ -28,10 +28,12 @@
 
 - Detectando objetos
 
+<!--
 ```
   python detect.py --weights yolov7-e6e.pt --source ./man_cafe.jpg
   
 ```
+-->
 ```
   python detect.py --source 0 --weights yolov7-e6e.pt
   
