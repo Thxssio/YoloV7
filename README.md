@@ -33,6 +33,6 @@
   
 ```
 ```
-  python detect.py --source 0 --weights yolov7.pt --name video_1 --view-img
+  python detect.py --source inference-data/desk.jpg --weights yolov7-e6e.pt
   
 ```
