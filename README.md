@@ -1,10 +1,6 @@
-<h1 align="center">
-YoloV7
-</h1>
 
-#
 <p align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzIO_ogWbM5F2dcuT4BggyibruhKmskirkbw&usqp=CAU" alt="yolo" height="90" Weight
+<img src="https://raw.githubusercontent.com/goktug97/PyYOLO/master/pyyologo.png" alt="yolo" height="200" Weight
 ="auto">
 </p>
 
