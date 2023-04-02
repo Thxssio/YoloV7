@@ -4,6 +4,7 @@ YoloV7
 
 #
 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzIO_ogWbM5F2dcuT4BggyibruhKmskirkbw&usqp=CAU
 ``` 
   git clone https://github.com/WongKinYiu/yolov7.git
   
