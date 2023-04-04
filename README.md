@@ -4,21 +4,21 @@
 ="auto">
 </p>
 
-  - Primeiro clone o git oficial do yolo 
+  **Primeiro clone o git oficial do yolo**
 
 ``` 
   git clone https://github.com/WongKinYiu/yolov7.git
   
 ```
 #
- - Entre na pasta onde está o yolo 
+ **Entre na pasta onde está o yolo** 
 
 ```
   cd yolov7
   
 ```
 #
- - Instale os pacotes necessarios
+ **Instale os pacotes necessarios**
 
 ```
   pip install -r requirements.txt
@@ -26,7 +26,7 @@
 ```
 #
 
-- Detectando objetos
+**Detectando objetos**
 
 <!--
 ```
